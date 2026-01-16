@@ -13,8 +13,8 @@ Let's check if you are eligible to get a driving license. The eligibility to get
  Check if the age is elligible for a driving license and print it on the console accordingly.*/
 
 console.log("Let's check if you are eligible to get a driving license. The eligibility to get a driving licence is 18 years.");
-let age = 72;
-let res = age >18 ? "you're Eligible for driver's licence": "you're not Eligible ";
+let age = 17;
+let res = age >=18 ? "you're Eligible for driver's licence": "you're not Eligible ";
 console.log(age, res)
 
 

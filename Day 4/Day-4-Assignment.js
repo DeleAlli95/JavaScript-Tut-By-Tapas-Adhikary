@@ -75,7 +75,7 @@ if (age <!! 18 ) {
             
         
 
-let age = 59; 
+let age = 69; 
 let ticketPrice;
 
 if (age < 18) {
